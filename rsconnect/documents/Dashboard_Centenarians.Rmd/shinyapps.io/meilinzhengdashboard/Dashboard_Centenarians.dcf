@@ -1,0 +1,12 @@
+name: Dashboard_Centenarians
+title: Dashboard_Centenarians
+username: meilinzhengdashboard
+account: meilinzhengdashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10812852
+bundleId: 8057313
+url: https://meilinzhengdashboard.shinyapps.io/Dashboard_Centenarians/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
